@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/RayhanFilms/static/css/main.4fc941b2.css",
+    "main.js": "/RayhanFilms/static/js/main.a0db1ec3.js",
+    "static/js/787.63050ea2.chunk.js": "/RayhanFilms/static/js/787.63050ea2.chunk.js",
+    "static/media/cars.jpg": "/RayhanFilms/static/media/cars.a266e3c7d4e5ee3ee69f.jpg",
+    "static/media/joker.jpg": "/RayhanFilms/static/media/joker.dc9b8728786051564b2a.jpg",
+    "static/media/hulk.png": "/RayhanFilms/static/media/hulk.b4fb93a3baf8d8d29fb4.png",
+    "static/media/fst.jpg": "/RayhanFilms/static/media/fst.6b39921f5fe129000dae.jpg",
+    "static/media/main.jpg": "/RayhanFilms/static/media/main.fece9603c395b4dcf8e7.jpg",
+    "static/media/2.jpg": "/RayhanFilms/static/media/2.b41e284320f4ccc2025e.jpg",
+    "static/media/avatar.jpg": "/RayhanFilms/static/media/avatar.1d982ace00b374ea69a4.jpg",
+    "static/media/4.jpg": "/RayhanFilms/static/media/4.46fc67bd28acf45f84f3.jpg",
+    "static/media/3.jpg": "/RayhanFilms/static/media/3.88a5d67b757cc3ae95ad.jpg",
+    "static/media/5.jpg": "/RayhanFilms/static/media/5.6775ce6c55b3e5799aac.jpg",
+    "static/media/6.jpg": "/RayhanFilms/static/media/6.9d31b903b4b13b5b6255.jpg",
+    "static/media/1.jpg": "/RayhanFilms/static/media/1.f17c94cb62e5be91caa9.jpg",
+    "static/media/kkn.jpg": "/RayhanFilms/static/media/kkn.62035b8ffd94d38c39ed.jpg",
+    "static/media/ipman.jpg": "/RayhanFilms/static/media/ipman.7e5ac2617ad505a8410a.jpg",
+    "static/media/batman.jpg": "/RayhanFilms/static/media/batman.e85e571e6f7dce83b605.jpg",
+    "index.html": "/RayhanFilms/index.html",
+    "main.4fc941b2.css.map": "/RayhanFilms/static/css/main.4fc941b2.css.map",
+    "main.a0db1ec3.js.map": "/RayhanFilms/static/js/main.a0db1ec3.js.map",
+    "787.63050ea2.chunk.js.map": "/RayhanFilms/static/js/787.63050ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc941b2.css",
+    "static/js/main.a0db1ec3.js"
+  ]
+}
